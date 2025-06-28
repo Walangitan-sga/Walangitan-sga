@@ -21,9 +21,3 @@ live in jayapura, Indonesian<br>student in smpn1 jayapura
 ---
 [![](https://visitcount.itsvg.in/api?id=walangitan-sga&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![Tic-Tac-Toe](https://github.com/username/repo-game/blob/gh-pages/game.svg)](https://github.com/username/repo-game)
-
-![Snake Game](https://github.com/username/username/blob/output/github-contribution-grid-snake.svg)
-
-
-
