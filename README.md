@@ -1,5 +1,5 @@
 # 💫 About Me:
-live in jayapura, Indonesian<br>student in smpn1 jayapura<br>stalker
+live in jayapura, Indonesian<br>student in smpn1 jayapura<br>Jangan mau tertinggal
 
 
 ## 🌐 Socials:
